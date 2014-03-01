@@ -1,3 +1,5 @@
+# WIP Not ready for use yet!
+
 # {%= name %} {%= _.badge("fury") %} {%= _.badge("travis") %}
 
 > {%= description %}
