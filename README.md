@@ -1,3 +1,5 @@
+# WIP Not ready for use yet!
+
 # assemble-contrib-pagination [![NPM version](https://badge.fury.io/js/assemble-contrib-pagination.png)](http://badge.fury.io/js/assemble-contrib-pagination) 
 
 > Permalinks plugin for Assemble, the static site generator for Grunt.js and Yeoman. This plugin enables pagable list pages.
